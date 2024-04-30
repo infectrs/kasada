@@ -1,0 +1,13 @@
+{
+  "name": "ips",
+  "version": "1.0.0",
+  "description": "ips tools",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "Infect",
+  "license": "ISC"
+}
